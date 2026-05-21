@@ -18,10 +18,5 @@ nixPkgs = [
 [phases.install]
 cmds = ["composer install --no-dev --optimize-autoloader"]
 
-[phases.build]
-cmds = [
-  "php artisan storage:link --force"
-]
-
 [start]
-cmd = "php artisan migrate --force && frankenphp run --config /etc/caddy/Caddyfile"
+cmd = "php artisan config:cache && php artisan route:cache && php artisan view:cache && php artisan migrate --force && php artisan storage:link --force && frankenphp run --config /app/Caddyfile"
