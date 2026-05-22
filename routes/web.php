@@ -44,3 +44,5 @@ Route::middleware('auth')->group(function () {
     Route::get('/transaksi/riwayat', [TransaksiController::class, 'riwayat'])->name('transaksi.riwayat');
     Route::get('/transaksi/riwayat/export', [TransaksiController::class, 'riwayatExport'])->name('transaksi.riwayat.export');
 });
+
+// Dokumentasi route utama aplikasi SIGAP
