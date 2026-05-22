@@ -24,3 +24,6 @@ Project ini menggunakan struktur Laravel dengan folder app, routes, resources, p
 
 ## Folder App
 Folder app digunakan untuk menyimpan logic utama aplikasi.
+
+## Folder Routes
+Folder routes digunakan untuk mengatur jalur akses halaman dan fitur aplikasi.
