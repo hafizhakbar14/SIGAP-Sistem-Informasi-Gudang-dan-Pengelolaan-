@@ -54,3 +54,5 @@ Route::middleware('auth')->group(function () {
 // Route aplikasi mendukung proses navigasi antar halaman
 
 // Struktur route membantu menghubungkan request dengan controller atau view
+
+// Penamaan route dibuat agar pengembangan fitur lebih terarah
