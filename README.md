@@ -21,3 +21,6 @@ Fitur manajemen stok digunakan untuk memantau jumlah barang yang tersedia.
 
 ## Struktur Proyek
 Project ini menggunakan struktur Laravel dengan folder app, routes, resources, public, dan config.
+
+## Folder App
+Folder app digunakan untuk menyimpan logic utama aplikasi.
