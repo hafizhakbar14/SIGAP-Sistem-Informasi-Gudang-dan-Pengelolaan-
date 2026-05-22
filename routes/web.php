@@ -62,3 +62,5 @@ Route::middleware('auth')->group(function () {
 // Route web digunakan untuk mengatur halaman yang dapat diakses pengguna
 
 // Setiap route dapat dikembangkan sesuai kebutuhan fitur aplikasi
+
+// Dokumentasi sederhana ini membantu memahami fungsi route pada aplikasi
