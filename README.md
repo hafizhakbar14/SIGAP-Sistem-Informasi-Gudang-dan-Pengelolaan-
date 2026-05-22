@@ -60,3 +60,6 @@ Pengguna dapat menjalankan aplikasi setelah konfigurasi database selesai.
 
 ## Pengelolaan Data
 Aplikasi membantu proses pengelolaan data gudang secara terstruktur.
+
+## Catatan Pengembangan
+Project ini dikembangkan sebagai sistem informasi gudang berbasis Laravel.
