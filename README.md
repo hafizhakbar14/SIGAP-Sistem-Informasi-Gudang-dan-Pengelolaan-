@@ -84,3 +84,6 @@ Laporan digunakan untuk melihat informasi data gudang berdasarkan kebutuhan peng
 
 ## Teknologi Pengembangan
 Project ini dikembangkan menggunakan Laravel sebagai framework utama aplikasi.
+
+## Kebutuhan Sistem
+Aplikasi membutuhkan PHP, Composer, dan database agar dapat dijalankan dengan baik.
