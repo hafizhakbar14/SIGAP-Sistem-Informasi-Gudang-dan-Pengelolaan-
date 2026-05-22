@@ -36,3 +36,6 @@ Folder public digunakan untuk menyimpan asset yang dapat diakses publik.
 
 ## Instalasi
 Project dapat dijalankan dengan mengatur environment, menjalankan composer install, dan menjalankan server Laravel.
+
+## Konfigurasi Environment
+File .env digunakan untuk mengatur konfigurasi database dan kebutuhan aplikasi.
