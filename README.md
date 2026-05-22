@@ -45,3 +45,6 @@ Aplikasi dapat dijalankan menggunakan perintah php artisan serve setelah konfigu
 
 ## Database
 Database digunakan untuk menyimpan data yang dibutuhkan oleh sistem informasi gudang.
+
+## Catatan Penggunaan
+Pastikan konfigurasi database sudah sesuai sebelum aplikasi dijalankan.
