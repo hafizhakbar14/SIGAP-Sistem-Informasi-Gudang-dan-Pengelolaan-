@@ -90,3 +90,6 @@ Aplikasi membutuhkan PHP, Composer, dan database agar dapat dijalankan dengan ba
 
 ## Alur Penggunaan
 Pengguna dapat mengakses fitur aplikasi setelah proses konfigurasi dan instalasi selesai.
+
+## Pemeliharaan Project
+Project dapat dikembangkan lebih lanjut dengan menambahkan fitur sesuai kebutuhan gudang.
