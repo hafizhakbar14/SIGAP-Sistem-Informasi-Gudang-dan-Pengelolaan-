@@ -18,3 +18,6 @@ Fitur manajemen barang digunakan untuk mencatat dan mengelola data barang.
 
 ## Manajemen Stok
 Fitur manajemen stok digunakan untuk memantau jumlah barang yang tersedia.
+
+## Struktur Proyek
+Project ini menggunakan struktur Laravel dengan folder app, routes, resources, public, dan config.
