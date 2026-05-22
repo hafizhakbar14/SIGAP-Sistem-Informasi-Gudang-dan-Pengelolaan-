@@ -50,3 +50,5 @@ Route::middleware('auth')->group(function () {
 // Route ini digunakan untuk mengatur akses halaman aplikasi
 
 // Pengaturan route disusun agar alur aplikasi lebih mudah dipahami
+
+// Route aplikasi mendukung proses navigasi antar halaman
