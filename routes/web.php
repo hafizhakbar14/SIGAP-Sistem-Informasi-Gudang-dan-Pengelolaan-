@@ -48,3 +48,5 @@ Route::middleware('auth')->group(function () {
 // Dokumentasi route utama aplikasi SIGAP
 
 // Route ini digunakan untuk mengatur akses halaman aplikasi
+
+// Pengaturan route disusun agar alur aplikasi lebih mudah dipahami
