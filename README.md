@@ -6,3 +6,6 @@ SIGAP adalah sistem informasi gudang untuk membantu pengelolaan barang dan stok.
 
 ## Tujuan Aplikasi
 Aplikasi ini dibuat untuk memudahkan proses pencatatan dan pemantauan data gudang.
+
+## Fitur Utama
+Fitur utama aplikasi meliputi pengelolaan data barang, stok, dan informasi gudang.
