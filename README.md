@@ -15,3 +15,6 @@ Fitur manajemen barang digunakan untuk mencatat dan mengelola data barang.
 
 ## Manajemen Barang
 Fitur manajemen barang digunakan untuk mencatat dan mengelola data barang.
+
+## Manajemen Stok
+Fitur manajemen stok digunakan untuk memantau jumlah barang yang tersedia.
