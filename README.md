@@ -33,3 +33,6 @@ Folder resources digunakan untuk menyimpan tampilan halaman aplikasi.
 
 ## Folder Public
 Folder public digunakan untuk menyimpan asset yang dapat diakses publik.
+
+## Instalasi
+Project dapat dijalankan dengan mengatur environment, menjalankan composer install, dan menjalankan server Laravel.
