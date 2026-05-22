@@ -42,3 +42,6 @@ File .env digunakan untuk mengatur konfigurasi database dan kebutuhan aplikasi.
 
 ## Menjalankan Aplikasi
 Aplikasi dapat dijalankan menggunakan perintah php artisan serve setelah konfigurasi selesai.
+
+## Database
+Database digunakan untuk menyimpan data yang dibutuhkan oleh sistem informasi gudang.
