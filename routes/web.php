@@ -58,3 +58,5 @@ Route::middleware('auth')->group(function () {
 // Penamaan route dibuat agar pengembangan fitur lebih terarah
 
 // Konfigurasi route menjadi bagian penting dalam alur kerja Laravel
+
+// Route web digunakan untuk mengatur halaman yang dapat diakses pengguna
