@@ -56,3 +56,5 @@ Route::middleware('auth')->group(function () {
 // Struktur route membantu menghubungkan request dengan controller atau view
 
 // Penamaan route dibuat agar pengembangan fitur lebih terarah
+
+// Konfigurasi route menjadi bagian penting dalam alur kerja Laravel
