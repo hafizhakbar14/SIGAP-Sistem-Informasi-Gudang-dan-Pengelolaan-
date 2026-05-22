@@ -57,3 +57,6 @@ Dokumentasi proyek diperbarui untuk memperjelas informasi aplikasi.
 
 ## Informasi Penggunaan
 Pengguna dapat menjalankan aplikasi setelah konfigurasi database selesai.
+
+## Pengelolaan Data
+Aplikasi membantu proses pengelolaan data gudang secara terstruktur.
