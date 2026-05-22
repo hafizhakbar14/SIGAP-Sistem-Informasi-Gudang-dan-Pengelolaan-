@@ -63,3 +63,6 @@ Aplikasi membantu proses pengelolaan data gudang secara terstruktur.
 
 ## Catatan Pengembangan
 Project ini dikembangkan sebagai sistem informasi gudang berbasis Laravel.
+
+## Finalisasi
+Dokumentasi project disesuaikan agar lebih lengkap dan mudah dipahami.
