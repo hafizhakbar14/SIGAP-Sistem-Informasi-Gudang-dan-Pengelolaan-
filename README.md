@@ -54,3 +54,6 @@ Project SIGAP telah disiapkan sebagai aplikasi sistem informasi gudang berbasis 
 
 ## Pembaruan Dokumentasi
 Dokumentasi proyek diperbarui untuk memperjelas informasi aplikasi.
+
+## Informasi Penggunaan
+Pengguna dapat menjalankan aplikasi setelah konfigurasi database selesai.
