@@ -9,3 +9,9 @@ Aplikasi ini dibuat untuk memudahkan proses pencatatan dan pemantauan data gudan
 
 ## Fitur Utama
 Fitur utama aplikasi meliputi pengelolaan data barang, stok, dan informasi gudang.
+
+## Manajemen Barang
+Fitur manajemen barang digunakan untuk mencatat dan mengelola data barang.
+
+## Manajemen Barang
+Fitur manajemen barang digunakan untuk mencatat dan mengelola data barang.
