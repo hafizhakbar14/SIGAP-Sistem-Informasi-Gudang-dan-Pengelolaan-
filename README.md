@@ -78,3 +78,6 @@ Fitur ini digunakan untuk mencatat data barang yang keluar dari gudang.
 
 ## Pemantauan Stok
 Sistem membantu pengguna memantau ketersediaan stok barang secara lebih terstruktur.
+
+## Laporan Gudang
+Laporan digunakan untuk melihat informasi data gudang berdasarkan kebutuhan pengguna.
