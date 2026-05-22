@@ -93,3 +93,6 @@ Pengguna dapat mengakses fitur aplikasi setelah proses konfigurasi dan instalasi
 
 ## Pemeliharaan Project
 Project dapat dikembangkan lebih lanjut dengan menambahkan fitur sesuai kebutuhan gudang.
+
+## Ringkasan Project
+SIGAP dirancang untuk membantu pencatatan, pengelolaan, dan pemantauan aktivitas gudang.
