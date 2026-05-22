@@ -87,3 +87,6 @@ Project ini dikembangkan menggunakan Laravel sebagai framework utama aplikasi.
 
 ## Kebutuhan Sistem
 Aplikasi membutuhkan PHP, Composer, dan database agar dapat dijalankan dengan baik.
+
+## Alur Penggunaan
+Pengguna dapat mengakses fitur aplikasi setelah proses konfigurasi dan instalasi selesai.
