@@ -69,3 +69,6 @@ Dokumentasi project disesuaikan agar lebih lengkap dan mudah dipahami.
 
 ## Modul Aplikasi
 SIGAP memiliki beberapa modul utama yang mendukung pengelolaan data gudang.
+
+## Pengelolaan Barang Masuk
+Fitur ini digunakan untuk mencatat data barang yang masuk ke dalam gudang.
