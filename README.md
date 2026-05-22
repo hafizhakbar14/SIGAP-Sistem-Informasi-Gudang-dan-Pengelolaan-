@@ -30,3 +30,6 @@ Folder routes digunakan untuk mengatur jalur akses halaman dan fitur aplikasi.
 
 ## Folder Resources
 Folder resources digunakan untuk menyimpan tampilan halaman aplikasi.
+
+## Folder Public
+Folder public digunakan untuk menyimpan asset yang dapat diakses publik.
