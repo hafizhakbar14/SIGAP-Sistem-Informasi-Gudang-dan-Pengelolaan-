@@ -81,3 +81,6 @@ Sistem membantu pengguna memantau ketersediaan stok barang secara lebih terstruk
 
 ## Laporan Gudang
 Laporan digunakan untuk melihat informasi data gudang berdasarkan kebutuhan pengguna.
+
+## Teknologi Pengembangan
+Project ini dikembangkan menggunakan Laravel sebagai framework utama aplikasi.
