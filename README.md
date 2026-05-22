@@ -39,3 +39,6 @@ Project dapat dijalankan dengan mengatur environment, menjalankan composer insta
 
 ## Konfigurasi Environment
 File .env digunakan untuk mengatur konfigurasi database dan kebutuhan aplikasi.
+
+## Menjalankan Aplikasi
+Aplikasi dapat dijalankan menggunakan perintah php artisan serve setelah konfigurasi selesai.
