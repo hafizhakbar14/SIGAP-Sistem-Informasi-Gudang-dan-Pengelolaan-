@@ -27,3 +27,6 @@ Folder app digunakan untuk menyimpan logic utama aplikasi.
 
 ## Folder Routes
 Folder routes digunakan untuk mengatur jalur akses halaman dan fitur aplikasi.
+
+## Folder Resources
+Folder resources digunakan untuk menyimpan tampilan halaman aplikasi.
