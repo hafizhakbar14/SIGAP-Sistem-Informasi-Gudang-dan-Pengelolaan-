@@ -51,3 +51,6 @@ Pastikan konfigurasi database sudah sesuai sebelum aplikasi dijalankan.
 
 ## Status Proyek
 Project SIGAP telah disiapkan sebagai aplikasi sistem informasi gudang berbasis Laravel.
+
+## Pembaruan Dokumentasi
+Dokumentasi proyek diperbarui untuk memperjelas informasi aplikasi.
