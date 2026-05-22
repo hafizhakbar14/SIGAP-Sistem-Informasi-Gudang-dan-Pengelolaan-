@@ -72,3 +72,6 @@ SIGAP memiliki beberapa modul utama yang mendukung pengelolaan data gudang.
 
 ## Pengelolaan Barang Masuk
 Fitur ini digunakan untuk mencatat data barang yang masuk ke dalam gudang.
+
+## Pengelolaan Barang Keluar
+Fitur ini digunakan untuk mencatat data barang yang keluar dari gudang.
